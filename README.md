@@ -1,4 +1,4 @@
-# Anki Force MPV Volume
+# Anki Force MPV Volume (PipeWire/PulseAudio)
 
 This Anki add-on forces all audio playback (such as TTS) to a fixed volume (default: 100%), regardless of the volume of other programs running in the background.
 
