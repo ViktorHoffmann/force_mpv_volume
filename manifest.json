@@ -1,0 +1,10 @@
+{
+  "package": "force_mpv_volume",
+  "name": "Force Anki MPV Volume",
+  "mod": 1757079310,
+  "version": "1.0.0",
+  "author": "Viktor Hoffmann",
+  "description": "Always set Anki's TTS/mpv sink-input to 100% volume with a separate PulseAudio role, regardless of other programs running in the background.",
+  "homepage": "https://github.com/ViktorHoffmann/force_mpv_volume",
+  "conflicts": []
+}

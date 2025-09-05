@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Anki add-on dev
+*.zip
+*.ankiaddon
+
+# OS
+.DS_Store
+Thumbs.db
